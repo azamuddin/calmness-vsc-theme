@@ -1,3 +1,4 @@
+![calmness-logo](icons/logo.png)
 # Calmness Theme Color 
 A Visual Studio Code theme color that brings the feel and look from Intellij Idea default theme color. With slight modification on the workbench to make it's more calm and pleasing to the eyes.
 
