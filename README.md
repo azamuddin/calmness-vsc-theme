@@ -11,4 +11,4 @@ In my opinion, if you want full calmness I recommend using Sky Light Icon Theme 
 ![php](screenshot.png)
 
 ### Typescript / Javascript 
-![js-ts](screenshot-js.png)
+![js-ts](screenshot-js-updated.png)
