@@ -1,9 +1,15 @@
 {
   "name": "calmness-vsc-theme",
-  "version": "1.0.0",
-  "description": "VSCode color theme that resembles intellij idea. I like the calmness in intellij idea default color theme",
+  "displayName": "Calmness Dark Theme",
+  "icon": "./icons/logo.png",
+  "version": "1.0.1",
+  "description": "Dark eye-calming theme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/azamuddin/calmness-vsc-theme.git",
+    "type": "git"
   },
   "keywords": [
     "themes"
@@ -20,7 +26,7 @@
   "contributes": {
       "themes": [
           {
-              "label": "Calmness Theme Color",
+              "label": "Calmness",
               "uiTheme": "vs-dark",
               "path": "./themes/calmness-theme-color.json"
           }
