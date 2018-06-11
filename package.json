@@ -1,7 +1,7 @@
 {
   "name": "calmness-vsc-theme",
   "displayName": "Calmness Dark Theme",
-  "icon": "./icons/logo.png",
+  "icon": "icons/logo.png",
   "version": "1.0.1",
   "description": "Dark eye-calming theme",
   "scripts": {
