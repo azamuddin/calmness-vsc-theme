@@ -4,3 +4,11 @@ A Visual Studio Code theme color that brings the feel and look from Intellij Ide
 
 ## Recomended Icon Theme 
 In my opinion, if you want full calmness I recommend using Sky Light Icon Theme for Visual Studio Code to complement this theme color.
+
+## Preview 
+
+### PHP 
+![php](screenshot.png)
+
+### Typescript / Javascript 
+![js-ts](screenshot-js.png)
