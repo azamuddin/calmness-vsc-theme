@@ -1,8 +1,7 @@
 {
-  "name": "calm-idea-vsc-theme",
+  "name": "calmness-vsc-theme",
   "version": "1.0.0",
   "description": "VSCode color theme that resembles intellij idea. I like the calmness in intellij idea default color theme",
-  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,9 +20,9 @@
   "contributes": {
       "themes": [
           {
-              "label": "Calm Idea",
+              "label": "Calmness Theme Color",
               "uiTheme": "vs-dark",
-              "path": "./themes/calm-idea.json"
+              "path": "./themes/calmness-theme-color.json"
           }
       ]
   }
